@@ -1,12 +1,10 @@
-   ____                        _       
-  / __ \                      | |      
- | |  | |_   _  __ _ ______ _ | | __ _ 
- | |  | | | | |/ _` |_  / _` || |/ _` |
- | |__| | |_| | (_| |/ / (_| || | (_| |
-  \___\_\\__,_|\__,_/___\__,_||_|\__,_|
-                                       
-    Fast, Scalable Web Applications    
-    
+    ___  _   _   _   ____   _   _      _   
+/ _ \| | | | / \ |__  / / \ | |    / \  
+| | | | | | |/ _ \  / / / _ \| |   / _ \ 
+| |_| | |_| / ___ \/ /_/ ___ \ |__/ ___ \
+\__\_\\___/_/   \_____/_/   \_\____/   \_\
+
+Fast, Scalable Web Applications
 # Quazala: A Modern Node.js Stack for Building Fast, Scalable Web Applications
 
 Welcome to the official organization of Quazala!
