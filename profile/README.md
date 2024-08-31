@@ -1,4 +1,4 @@
-#QUAZALA
+# QUAZALA
 Fast, Scalable Web Applications
 
 # Quazala: A Modern Node.js Stack for Building Fast, Scalable Web Applications
