@@ -8,10 +8,10 @@ Quazala is designed to simplify and accelerate the development of modern web app
 
 ## Core Components
 
-- **Quazala Server:** A high-performance, extensible server built on Node.js.
-- **Quazala Router:** An intuitive and flexible routing system for handling HTTP requests.
+- **[Quazala Server](https://github.com/quazala/server):** A high-performance, extensible server built on Node.js.
+- **[Quazala Router](https://github.com/quazala/router):** An intuitive and flexible routing system for handling HTTP requests.
 
-- **Quazala CLI:** 
+- **Quazala CLI:** (TBD)
 
 ## Key Features
 
@@ -21,13 +21,10 @@ Quazala is designed to simplify and accelerate the development of modern web app
 - **Scalable:** Designed to grow with your application, from prototypes to production-scale systems.
 - **TypeScript Support:** First-class TypeScript support for enhanced developer experience.
 
-
-
 ## Contributing
 
-We welcome contributions from the community! Whether it's improving documentation, fixing bugs, or proposing new features, your input is valuable. Please read our [Contribution Guidelines](CONTRIBUTING.md) to get started.
+We welcome contributions from the community! Whether it's improving documentation, fixing bugs, or proposing new features, your input is valuable. 
 
-## Community and Support
 
 ## Stay Connected
 
