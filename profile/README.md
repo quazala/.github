@@ -15,6 +15,7 @@ Quazala is designed to simplify and accelerate the development of modern web app
 - **[Quazala Router](https://github.com/quazala/router):** An intuitive and flexible routing system for handling HTTP requests.[npm](https://www.npmjs.com/package/@quazala/router)
 - **[Quazala Env reader](https://github.com/quazala/env-reader):** Function to read env variables file content. [npm](https://www.npmjs.com/package/@quazala/env-reader)
 - **[Quazala File structure reader](https://github.com/quazala/file-structure-reader):** File structure reader. [npm](https://www.npmjs.com/package/@quazala/file-structure-reader)
+- **[Quazala Schema validator](https://github.com/quazala/schema-validator):** Schema validator. [npm](https://www.npmjs.com/package/@quazala/schema-validator)
 - 
 - **Quazala CLI:** (TBD)
 
