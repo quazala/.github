@@ -1,10 +1,6 @@
-    ___  _   _   _   ____   _   _      _   
-/ _ \| | | | / \ |__  / / \ | |    / \  
-| | | | | | |/ _ \  / / / _ \| |   / _ \ 
-| |_| | |_| / ___ \/ /_/ ___ \ |__/ ___ \
-\__\_\\___/_/   \_____/_/   \_\____/   \_\
-
+QUAZALA
 Fast, Scalable Web Applications
+
 # Quazala: A Modern Node.js Stack for Building Fast, Scalable Web Applications
 
 Welcome to the official organization of Quazala!
