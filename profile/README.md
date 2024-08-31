@@ -13,7 +13,8 @@ Quazala is designed to simplify and accelerate the development of modern web app
 
 - **[Quazala Server](https://github.com/quazala/server):** A high-performance, extensible server built on Node.js.
 - **[Quazala Router](https://github.com/quazala/router):** An intuitive and flexible routing system for handling HTTP requests.
-
+- **[Quazala Env reader](https://github.com/quazala/env-reader):** Function to read env variables file content
+- 
 - **Quazala CLI:** (TBD)
 
 ## Key Features
