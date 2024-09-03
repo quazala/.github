@@ -11,12 +11,18 @@ Quazala is designed to simplify and accelerate the development of modern web app
 
 ## Core Components
 
+- **[Quazala Schema validator](https://github.com/quazala/app):** Schema validator. [npm](https://www.npmjs.com/package/@quazala/app)
 - **[Quazala Server](https://github.com/quazala/server):** A high-performance, extensible server built on Node.js. [npm](https://www.npmjs.com/package/@quazala/server)
 - **[Quazala Router](https://github.com/quazala/router):** An intuitive and flexible routing system for handling HTTP requests.[npm](https://www.npmjs.com/package/@quazala/router)
 - **[Quazala Env reader](https://github.com/quazala/env-reader):** Function to read env variables file content. [npm](https://www.npmjs.com/package/@quazala/env-reader)
 - **[Quazala File structure reader](https://github.com/quazala/file-structure-reader):** File structure reader. [npm](https://www.npmjs.com/package/@quazala/file-structure-reader)
 - **[Quazala Schema validator](https://github.com/quazala/schema-validator):** Schema validator. [npm](https://www.npmjs.com/package/@quazala/schema-validator)
-- 
+- **[Quazala Redis connector](https://github.com/quazala/redis):** Redis connector. [npm](https://www.npmjs.com/package/@quazala/redis)
+- **[Quazala OpenSearch connector](https://github.com/quazala/os):** OpenSearch connector. [npm](https://www.npmjs.com/package/@quazala/os)
+- **[Quazala PostgreSql connector](https://github.com/quazala/pg):** PostgreSql connector. [npm](https://www.npmjs.com/package/@quazala/pg)
+- **[Quazala Mongo connector](https://github.com/quazala/mongo):** Mongo connector. [npm](https://www.npmjs.com/package/@quazala/mongo)
+- **[Quazala Rabbit connector](https://github.com/quazala/rabbit):** Rabbit connector. [npm](https://www.npmjs.com/package/@quazala/rabbit)
+
 - **Quazala CLI:** (TBD)
 
 ## Key Features
